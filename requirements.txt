@@ -12,7 +12,6 @@ cffi==1.14.1
 chardet==3.0.4
 Click==7.0
 colorama==0.4.3
-command-not-found==0.3
 configobj==5.0.6
 constantly==15.1.0
 cryptography==3.0
@@ -120,7 +119,6 @@ six==1.15.0
 sklearn==0.0
 ssh-import-id==5.10
 systemd-python==234
-Telethon==1.16.4
 tensorboard==2.4.1
 tensorboard-plugin-wit==1.8.0
 tensorflow==2.4.1
