@@ -1,0 +1,35 @@
+Chatbot 
+The chatbot was created to help travellers/foreigners/refugees to ask a help in case of danger. Are you in danger?
+
+Yes
+Please, explain your situation
+
+No
+Please, say 'Bye' to turn the chat off
+
+Police
+We will send your phone number to police so that they could call you back
+
+Help me
+We will send your phone number to police so that they could call you back
+
+Attack
+What is your address/location?
+
+St.
+We sent a police patrol to check this territory
+
+Suspicious Person and Activity
+What does this person do?
+
+Disturbances
+What type of disturabce: light, noise, arguments, fights?
+
+Drug Activity
+What is your address/location?
+
+Traffic
+If it is related to "collisions", "hit & run", type this word here
+
+Collision
+How many injured people?
